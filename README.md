@@ -1,6 +1,13 @@
 # Bluetooth-Car-Default_For-Arduino
 Default code for making Bluetooth Car powred by arduino
 
+## Files
+
+README.md -> this file<br/>
+LICENSE -> MIT License file<br/>
+main.ino -> basic version(that doesn't contains motor control) of code<br/>
+final.ino -> full version(that contains motor control)<br/>
+
 ## Info
 
 Written by Yellowstrawberry Dev.(Eunsoo Jung) | Githubs: https://github.com/Yellowstrawberrys <br/>
